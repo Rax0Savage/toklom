@@ -1,0 +1,20 @@
+Скачиваем Termux
+
+pkg install python
+
+далее пишем туда
+
+pip install colorama && pip install py-cpuinfo && pip install psutil && pip install faker && pip install bs4 && pip install requests && pip install pystyle && pip install datetimepip install dhooks && pip install asyncio && pip install email && pip install telethon && pip install telebot && pip install phonenumbers && pip install keyboard  && pip install user_agents && pip install validators && pip install progressbar && pip install fake_useragent && pip install user_agent && pip install selenium && pip install validators
+
+ошибка в psutil?
+   pkg install clang
+   
+   pkg install python-dev
+   
+   pkg install libcrypt
+   
+   pip install psutil
+   
+
+далее cd путь к файлу
+python Toklom.py

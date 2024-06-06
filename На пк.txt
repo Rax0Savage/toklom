@@ -1,0 +1,26 @@
+качаем python 3.12.3
+ставим там Add Path
+
+далее открываем командую строку и пишем туда
+pip install colorama
+pip install py-cpuinfo
+pip install psutil
+pip install faker
+pip install bs4
+pip install requests
+pip install pystyle
+pip install datetime
+pip install dhooks
+pip install asyncio
+pip install email
+pip install telethon
+pip install telebot
+pip install phonenumbers
+pip install keyboard
+pip install user_agents
+pip install validators
+pip install progressbar
+pip install fake_useragent
+pip install user_agent
+pip install selenium
+pip install validators
